@@ -11,11 +11,11 @@ This HR data presents an overview of employee demographics and attrition trends.
 [Column Descriptions For Sales Data](#column-descriptions-for-sales-data)
 
 ### Project Overview For HR Data
+---
 This dataset showcases a detailed view of an HR data analysis dashboard for an organization. This data also provides insights into employee statistics, attrition rates, demographic breakdowns, and department-specific data and provides a snapshot of workforce composition and areas with potential retention challenges, which will assist in effectively highlighting areas for improvement in retention and employee satisfaction.
 
----
-
 ### Column Descriptions For Sales Data
+---
 - Attrition: Indicates whether an employee has left the company (represented as "Yes" or "No").
 - Business Travel: Frequency of business travel for the employee (e.g., "Rarely," "Frequently," "No Travel").
 - CF_age band: Age group category of the employee, used to group ages into ranges (e.g., "  Under 25", "25-34," "35-44").
@@ -54,3 +54,16 @@ This dataset showcases a detailed view of an HR data analysis dashboard for an o
 - Years In Current Role: Number of years the employee has held their current role.
 - Years Since Last Promotion: Number of years since the employee’s last promotion.
 - Years With Current Manager: Number of years the employee has worked with their current manager.
+
+### Data Sources
+---
+The primary source of data used is the "HR.data.csv" from an organisation.
+
+### Tools Used
+---
+Power BI: Utilised For Data Cleaning and Visualization
+
+### Data Cleaning and Preparations
+---
+
+
