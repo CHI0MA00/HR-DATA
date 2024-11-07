@@ -10,6 +10,13 @@ This HR data presents an overview of employee demographics and attrition trends.
 
 [Column Descriptions For Sales Data](#column-descriptions-for-sales-data)
 
+[Data Sources](#data-sources)
+
+[Tools Used](tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+
 ### Project Overview For HR Data
 ---
 This dataset showcases a detailed view of an HR data analysis dashboard for an organization. This data also provides insights into employee statistics, attrition rates, demographic breakdowns, and department-specific data and provides a snapshot of workforce composition and areas with potential retention challenges, which will assist in effectively highlighting areas for improvement in retention and employee satisfaction.
@@ -65,5 +72,29 @@ Power BI: Utilised For Data Cleaning and Visualization
 
 ### Data Cleaning and Preparations
 ---
+#### Data Cleaning:
+The data cleaning process was performed in Power BI, following these steps:
+
+- Column Renaming: Renamed columns for improved clarity and consistency.
+
+- New Column Creation: Used conditional column to classify age brackets (Age_Band) and Attrition Count.
+
+### Exploratory Data Analysis
+---
+The dataset was imported from Excel to Power BI to answer the following questions:
+- What is the total number of employees?
+- What is the total Attrition count?
+- What is the total number of current employees?
+- Calculate the attrition rate.
+- Find the average age.
+- Give the total attrition count by departmet and Education fields.
+- Calculate the total attrition by gender.
+- Built an interactive dashboard to effectively present key findings, trends and patterns to gain insights.
+
+### Data Analysis
+---
+
+
+![HR DATA VISUALIZATION](https://github.com/user-attachments/assets/86a0d921-0a89-4c7d-8545-08ee76f10a7a)
 
 
