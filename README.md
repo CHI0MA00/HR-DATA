@@ -16,6 +16,12 @@ This HR data presents an overview of employee demographics and attrition trends.
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 
 ### Project Overview For HR Data
 ---
@@ -93,7 +99,18 @@ The dataset was imported from Excel to Power BI to answer the following question
 
 ### Data Analysis
 ---
+- The total number of employees is 1470
 
+- Total number of attritions is 237
+
+- Total number of current employees is 1233
+
+- Average age is 37
+
+- Attrition rate is 16%
+
+### Data Visualization
+---
 
 ![HR DATA VISUALIZATION](https://github.com/user-attachments/assets/86a0d921-0a89-4c7d-8545-08ee76f10a7a)
 
